@@ -46,3 +46,6 @@ It generates **random valid patterns** following Android's lock screen rules and
 <img src='https://github.com/user-attachments/assets/096f79cb-a6a8-47c1-8dfa-3c80d7d4aad4' width=350dp height=500dp/>
 <img src='https://github.com/user-attachments/assets/ca53fb64-474d-4d31-892d-e868c0f429b0' width=350dp height=500dp/>
 
+## Demo Video
+[demo](https://github.com/user-attachments/assets/2f0a2dbc-cdca-48ff-b07a-2db337463126)
+
